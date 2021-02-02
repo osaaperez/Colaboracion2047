@@ -1,8 +1,10 @@
 package com.programacion;
 
-public class LiderClass {
+public class Oscar {
 
     void metodoLider(){
         System.out.println("acabando trabajando");
-    }
+
+
+            }
 }
